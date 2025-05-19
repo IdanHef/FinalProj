@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.44.1
 datetime
 yfinance
 google.generativeai
 openpyxl
-matplotlib
+matplotlib==3.8.3
 plotly
 emoji
 tabulate
@@ -13,10 +13,11 @@ langchain-google-genai
 google-generativeai
 pyspellchecker
 
-bcrypt
-extra-streamlit-components
-pyjwt
-psycopg2-binary
-sqlalchemy
-requests
+bcrypt==4.3.0
+extra-streamlit-components==0.1.80
+pyjwt==2.10.1
+psycopg2-binary==2.9.10
+sqlalchemy==2.0.40
+requests==2.32.3
 python-Levenshtein
+pymongo==4.6.2
